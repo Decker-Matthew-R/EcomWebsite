@@ -7,4 +7,8 @@ This is an e-commerce tutorial I am working on from M-Dev Entertainment on youtu
 The end product will be a fully functioning website with database connectivity that will allow a customer to create a user account, shop, and order a product.
 
 
+The product is now finished. I have uploaded the files and uploaded a youtube video demo. Please check it out:
+
+
+
 
