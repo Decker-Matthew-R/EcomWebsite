@@ -9,6 +9,8 @@ The end product will be a fully functioning website with database connectivity t
 
 The product is now finished. I have uploaded the files and uploaded a youtube video demo. Please check it out:
 
+Part 1 of demo: https://youtu.be/KmqaxhHuVKM
+Part 2 of demo: https://youtu.be/3_LG98aakaY
 
 
 
