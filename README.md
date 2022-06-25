@@ -9,6 +9,7 @@ The end product will be a fully functioning website with database connectivity t
 
 The product is now finished. I have uploaded the files and uploaded a youtube video demo. You can run the file through XAMPP (localhost/proshop/index.php) or check out the youtube demonstration! 
 
-
+Youtube demo pt. 1: https://youtu.be/KmqaxhHuVKM
+Youtube demo pt. 2: https://youtu.be/3_LG98aakaY
 
 
